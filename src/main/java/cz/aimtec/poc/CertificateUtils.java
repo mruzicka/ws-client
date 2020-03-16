@@ -1,4 +1,4 @@
-package cz.aimtec.aoc;
+package cz.aimtec.poc;
 
 import javax.naming.NamingEnumeration;
 import javax.naming.NamingException;

@@ -1,4 +1,4 @@
-package cz.aimtec.aoc;
+package cz.aimtec.poc;
 
 import org.apache.http.client.methods.CloseableHttpResponse;
 import org.apache.http.client.methods.HttpGet;
